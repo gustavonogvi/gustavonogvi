@@ -17,5 +17,5 @@
 </div>
 
 ## About Me
-- 👨‍💻 Currently an intern at **Dataprev**, working on backend and frontend systems with **Java**, **Spring Boot**, and **SQL** | **JSX** | **React**
+- 👨‍💻 Currently an intern at **Dataprev**, working on backend and frontend systems with **Java** | **Spring Boot** | **SQL** | **JSX** | **React**
     
