@@ -1,9 +1,15 @@
-## Gustavo Nogueira
+<div align="center">
 
-Software developer. Currently interning at Banco do Nordeste do Brasil.
+# Gustavo Nogueira
 
-**Stack**
-Python · Java · JavaScript · Bash · SQL
+software developer · intern at Banco do Nordeste do Brasil
 
-**Links**
-[Portfolio](https://gustavonogvi.github.io) · [LinkedIn](https://www.linkedin.com/in/gustavo-vinhas-0ab143268)
+<br>
+
+`Python` `Java` `JavaScript` `Bash` `SQL`
+
+<br>
+
+[portfolio](https://gustavonogvi.github.io) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/gustavo-vinhas-0ab143268)
+
+</div>
